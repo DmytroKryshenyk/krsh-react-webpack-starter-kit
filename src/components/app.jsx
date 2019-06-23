@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 import UserInfo from './userInfo/userInfo.jsx';
 import "./app.scss";
 
-export default class App extends Component {
+export default class App extends React.Component  {
   render() {
     return (
       <div className="app__container">

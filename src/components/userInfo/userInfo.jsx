@@ -1,5 +1,5 @@
 import React from "react";
-import "./userinfo.scss"
+import "./userinfo.scss";
 
 const UserInfo = function(props) {
   return (
