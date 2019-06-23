@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/roboto-v18-latin-500.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+
+.user__greeting {
+  font: italic 12px "Roboto", sans-serif;
+  color: #6d6d6d; }
+
+.app__container {
+  font: 16px "Roboto", sans-serif;
+  color: #453dbd; }
+
+.app__img {
+  display: block;
+  max-width: 100%;
+  height: auto; }
+
